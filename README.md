@@ -22,3 +22,9 @@ MakeCode でこのリポジトリを編集します。
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## 説明
+* 単純に声の大きさで顔が変わります
+* 息を吹きかけてもOK
+* シリアルで音の大きさをグラフで見られます
+
